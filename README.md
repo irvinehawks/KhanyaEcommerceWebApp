@@ -1,2 +1,2 @@
 # KhanyaEcommerceWebApp
-Project Under Development.
+Project Under Development:
