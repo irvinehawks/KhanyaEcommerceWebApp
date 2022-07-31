@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Ecommerce web app",
   "main": "server.js",
+  "type":"module",
   "repository": "https://github.com/irvinehawks/KhanyaEcommerceWebApp.git",
   "author": "Irvene Kwambana <irvenehawks@gmail.com>",
   "license": "MIT",
